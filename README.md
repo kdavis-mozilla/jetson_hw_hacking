@@ -4,7 +4,7 @@ Jetson TK1 4GB DRAM upgrade
 Hardware
 --------
 
-Jetson TK1 ships with four [H5TC4G63AFR-RDA](https://www.skhynix.com/products/computing/view.jsp?info.ramKind=19&info.serialNo=H5TC4G63AFR) 256Mb x 16 DDR3L ICs. These can be replaced with 512Mb x 16 DDR3L ICs for a total capacity of 4GB. The replacements I've used are [H5TC8G63AMR-PBA](https://www.skhynix.com/products/computing/view.jsp?info.ramKind=19&info.serialNo=H5TC8G63AMR).
+Jetson TK1 ships with four [H5TC4G63AFR-RDA](https://www.skhynix.com/products/computing/view.jsp?info.ramKind=19&info.serialNo=H5TC4G63AFR) 256Mb x 16 DDR3L ICs. These can be replaced with 512Mb x 16 DDR3L ICs for a total capacity of 4GB. The replacements I've used are [H5TC8G63AMR-PBA](https://www.olimex.com/Products/Components/IC/H5TC8G63AMR-PBA/).
 
 
 **Requirements:**
